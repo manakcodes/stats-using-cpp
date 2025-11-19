@@ -96,7 +96,7 @@ make clean
 
 ## ❓ Why It Exists
 
-## It exists as an exploration project how fundamental statistical calculations can be implemented efficiently and accurately in plain `C++`.
+#### It exists as an exploration project how fundamental statistical calculations can be implemented efficiently and accurately in plain `C++`.
 
 ## 📁 Directory Structure
 
